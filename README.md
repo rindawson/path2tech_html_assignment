@@ -27,4 +27,4 @@ To achieve the expected layout, utilize the `index.html` file located in this fo
 
 Below is an image depicting the expected layout of the webpage:
 
-![Expected Output](./assets/Expected_Output.png)
+![Expected Output](./assets/Expected_Output.png)# path2tech_html_assignment
